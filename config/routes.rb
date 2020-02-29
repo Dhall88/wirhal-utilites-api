@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'welcome#index'
   resources :zips
   resources :multiplication_scores
   resources :division_scores

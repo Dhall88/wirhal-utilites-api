@@ -1,0 +1,2 @@
+class SubtractionScore < ApplicationRecord
+end

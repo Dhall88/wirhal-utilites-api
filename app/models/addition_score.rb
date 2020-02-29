@@ -1,0 +1,2 @@
+class AdditionScore < ApplicationRecord
+end

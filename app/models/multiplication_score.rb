@@ -1,0 +1,2 @@
+class MultiplicationScore < ApplicationRecord
+end

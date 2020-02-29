@@ -1,0 +1,2 @@
+class BarScore < ApplicationRecord
+end

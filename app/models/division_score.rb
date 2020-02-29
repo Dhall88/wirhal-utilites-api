@@ -1,0 +1,2 @@
+class DivisionScore < ApplicationRecord
+end
